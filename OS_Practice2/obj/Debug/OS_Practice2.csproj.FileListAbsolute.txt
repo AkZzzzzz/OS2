@@ -1,0 +1,7 @@
+D:\Downloads\OS_Practice2-main\OS_Practice2-main\OS_Practice2\bin\Debug\OS_Practice2.exe.config
+D:\Downloads\OS_Practice2-main\OS_Practice2-main\OS_Practice2\bin\Debug\OS_Practice2.exe
+D:\Downloads\OS_Practice2-main\OS_Practice2-main\OS_Practice2\bin\Debug\OS_Practice2.pdb
+D:\Downloads\OS_Practice2-main\OS_Practice2-main\OS_Practice2\obj\Debug\OS_Practice2.csproj.AssemblyReference.cache
+D:\Downloads\OS_Practice2-main\OS_Practice2-main\OS_Practice2\obj\Debug\OS_Practice2.csproj.CoreCompileInputs.cache
+D:\Downloads\OS_Practice2-main\OS_Practice2-main\OS_Practice2\obj\Debug\OS_Practice2.exe
+D:\Downloads\OS_Practice2-main\OS_Practice2-main\OS_Practice2\obj\Debug\OS_Practice2.pdb
